@@ -39,15 +39,16 @@ while i < 5:
 ```
 - in the example above, the variable ```i``` is used as the counter variable
     - its only purpose is to count up so that the condition eventually becomes false
-    - table
-        loop number | counter variable value | condition(i < 5) | output
-        --- | --- | --- | ---
-        1 | 0 | True | 0
-        2 | 1 | True | 1
-        3 | 2 | True | 2
-        4 | 3 | True | 3
-        5 | 4 | True | 4
-        6 | 5 | False | nothing
+    
+loop number | counter variable value | condition(i < 5) | output
+--- | --- | --- | ---
+1 | 0 | True | 0
+2 | 1 | True | 1
+3 | 2 | True | 2
+4 | 3 | True | 3
+5 | 4 | True | 4
+6 | 5 | False | nothing
+
 - think: what would happen if the code removed ```i = i + 1```
 - think: what would happen if the condition was changed to ```i <= 5```
 - think: what would happen if the condition was changed to ```i > 5```
