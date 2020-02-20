@@ -117,7 +117,7 @@ loop number | counter variable value | condition(i < 5) | output
 - move until broken:
 ![](/gifs/day1/move_until_broken.gif)
 - move until can't:
-![](/gif/day2_4/move_until_cant.gif)
+![](/gifs/day2_4/move_until_cant.gif)
 - walk around the whole screen:
 ![](/gifs/day2/walk_edge.gif)
 - walk and place leaves 5 times:
