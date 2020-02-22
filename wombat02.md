@@ -154,7 +154,7 @@ for testing out variables, if statements, and while loops more, go to https://re
 
 
 ### and, or, not
-- these are keywords which help a programmer adds to if statement conditions
+- these are keywords which help a programmer add more logic to if statement conditions
 - the ```and``` and ```or``` go between two conditionals like ```x > 10 and x < 50```
 - ```not``` is used before a conditional statement to reverse it like ```not(x > 10)```
 - examples for ```and```:
