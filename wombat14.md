@@ -10,6 +10,10 @@
 
 ## Notes:
 
+### do now:
+
+- write a while loop down on your paper which outputs the numbers 0-10 inclusive
+
 ### practicing while loops together:
 
 - i'm going to make up some while loops and you all are going to predict the loop count and output
