@@ -3,6 +3,11 @@
 
 ## Topics:
 
+plans for potential closings:
+- we will be moving to an online curriculum called CodeCombat
+- similar to wombatgame and allows you to do a lot at home with just a web browswer
+- you'll be able to contact me and other through discord if you have questions
+
 for people who were here saturday:
 - review while loop worksheet
 - draw the first letter of your name with leaves
@@ -12,6 +17,9 @@ for people who weren't here saturday:
 - were going to do the notes for day 15 instead
 
 ## Notes:
+
+### codecombat:
+- codecombat.com
 
 ### review while loop worksheet:
 
@@ -34,15 +42,6 @@ takeaways from looking over them
 - wombat should be at the bottom left: (0, 11)
 - hint: make the wombat first get right next to the rock before climbing
     - which built-in function are you going to use?
-
-### problem(student) climb over a randomly generated wall:
-
-![](/gifs/new15/climb_n_wall.gif)
-
-- use setup 3
-- this wall will be at a random x location and have a random height
-    - therefore, your solution needs to be general to fit many different wall sizes
-- hint: figure out how to determine when the wombat is at the top of the wall using the built-in functions
 
 ## Homework:
 
